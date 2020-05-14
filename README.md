@@ -1,6 +1,5 @@
 # fezaG
 A peek into the dark
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <title>stemG</title>
