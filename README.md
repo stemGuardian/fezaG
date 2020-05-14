@@ -25,7 +25,7 @@ A peek into the dark
             <li>archangel's descent</li>
             <li>pixel draft</li>
         </ul>
-        <img src="https://media.giphy.com/media/QCJlIDkOJDEIctfdzz/giphy.gif" width="50%" alt=""dojutsu"/>
+        <img src="https://media.giphy.com/media/QCJlIDkOJDEIctfdzz/giphy.gif" width="50%" alt="dojutsu"/>
     </section>
     <section id="achievements">
         <h2>Achievements</h2>
