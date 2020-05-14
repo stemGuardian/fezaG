@@ -1,2 +1,2 @@
 # fezaG
-A peek int o the dark
+A peek into the dark
