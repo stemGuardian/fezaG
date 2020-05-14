@@ -45,7 +45,7 @@ A peek into the dark
         </details>
     </section>
     <footer>
-        <img src="https://www.pixelstalk.net/wp-content/uploads/images1/Anime-Angel-Wings-with-Magic-768x576.jpg" width="30%" alt="logo of WD4E">   
+        <img src="https://www.pixelstalk.net/wp-content/uploads/images1/Anime-Angel-Wings-with-Magic-768x576.jpg" width="45%" alt="logo of WD4E">   
         This page was created by Jianhuren &amp; the sisterhood. To learn more about the feather, visit <a href="https://en.wikipedia.org/wiki/Feather" target="_blank">fezWeb</a>.
     </footer>
 </body>    
